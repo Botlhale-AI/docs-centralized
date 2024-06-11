@@ -66,7 +66,7 @@ export default function HomepageFeatures() {
             <a href="https://docs-apis.botlhale.xyz" rel="noopener noreferrer" className={clsx('col col--3', styles.border, styles.textv, styles.feature)} style={{borderColor: '#999998'}}>
               <div className="text--center padding-horiz--md">
                 <Heading as="h3" style={{ color: '#999998' }}>APIs</Heading>
-                <p className={styles.textcolor}>Our chatbot, speech , and text APIs.</p>
+                <p className={styles.textcolor}>Our chatbot, speech and text APIs.</p>
               </div>
             </a>
           </div>
