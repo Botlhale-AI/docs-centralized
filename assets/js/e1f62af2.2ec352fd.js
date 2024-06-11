@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_home=self.webpackChunkdocs_home||[]).push([[226],{2904:e=>{e.exports=JSON.parse('{"permalink":"/docs-centralized/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
