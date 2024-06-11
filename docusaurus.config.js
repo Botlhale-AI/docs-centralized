@@ -12,7 +12,7 @@ const config = {
   tagline: 'Botlhale AI Docs',
   favicon: 'img/ficon.png',
   url: 'https://docs.botlhale.xyz',
-  baseUrl: '/',
+  baseUrl: '/docs-centralized/',
   organizationName: 'Botlhale-AI', // Usually your GitHub org/user name.
   projectName: 'docs-centralized', // Usually your repo name.
   onBrokenLinks: 'warn',
