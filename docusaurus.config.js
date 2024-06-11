@@ -54,9 +54,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/ficon.png',
+      image: 'static/img/ficon.png',
       navbar: {
-        title: 'Docs',
+        title: 'Botlhale AI Docs',
         logo: {
           alt: 'Logo',
           src: 'img/ficon.png',
@@ -76,7 +76,7 @@ const config = {
             href: '/',
             html: `
               <img
-                src="/img/logo.png"
+                src="static/img/logo.png"
                 alt="Botlhale AI Logo"
                 class="navbar-logo-custom"
                 style="height: 2rem; margin-right: 1rem; filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.75)); "
