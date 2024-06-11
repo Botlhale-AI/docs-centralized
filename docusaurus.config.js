@@ -61,28 +61,28 @@ const config = {
           alt: 'Logo',
           src: 'img/ficon.png',
         },
-        items: [
-          {href: 'https://botlhale.ai/botlhale-blog/', label: 'Blog', position: 'right'},
-          {
-            href: 'https://docs.botlhale.xyz',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'right',
-            to: '/',
-            href: '/',
-            html: `
-              <img
-                src="static/img/logo.png"
-                alt="Botlhale AI Logo"
-                class="navbar-logo-custom"
-                style="height: 2rem; margin-right: 1rem; filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.75)); "
-              >`,
-          },
-        ],
+        // items: [
+        //   {href: 'https://botlhale.ai/botlhale-blog/', label: 'Blog', position: 'right'},
+        //   {
+        //     href: 'https://docs.botlhale.xyz',
+        //     label: 'GitHub',
+        //     position: 'right',
+        //   },
+        //   {
+        //     type: 'doc',
+        //     docId: 'intro',
+        //     position: 'right',
+        //     to: '/',
+        //     href: '/',
+        //     html: `
+        //       <img
+        //         src="/img/logo.png"
+        //         alt="Botlhale AI Logo"
+        //         class="navbar-logo-custom"
+        //         style="height: 2rem; margin-right: 1rem; filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.75)); "
+        //       >`,
+        //   },
+        // ],
       },
       
       prism: {
